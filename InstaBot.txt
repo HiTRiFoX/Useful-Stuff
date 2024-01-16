@@ -1,0 +1,17 @@
+Yandex
+Login: botting.instagram@yandex.ru
+Password: Your Password
+
+Instagram
+Login: bottinginsta1
+Password: Your Password
+
+
+
+
+
+The InstaBot
+https://instagrambot.github.io/docs/en/For_developers.html#Params
+
+InstaPy
+https://www.youtube.com/watch?v=2-w5ya9abAA

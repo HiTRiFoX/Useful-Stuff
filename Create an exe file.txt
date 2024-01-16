@@ -1,0 +1,2 @@
+open cmd at: "D:\JetBrains\PyCharm Community Edition 2019.2.5\PycharmProjects\venv\Scripts"
+pyinstaller --onefile -w ".py file"

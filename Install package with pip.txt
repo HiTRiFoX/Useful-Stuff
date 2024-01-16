@@ -1,0 +1,2 @@
+cd D:\JetBrains\PycharmProjects\venv\Scripts
+python -m pip install "PACKAGE"
